@@ -5,7 +5,7 @@ The Jupyter Notebook provides a model to calculate the viscosity of magmatic liq
 
 To use the model for your own compositions:
 
-1. Be sure that your composition and physical conditions lies within the range of samples used to calibrate either Giordano's or di Genova's studies
+1. Be sure that your composition and physical conditions lies within the ranges used to calibrate either Giordano's or di Genova's studies
 2. Fill in the relevant oxide weight percentages for your melt
 3. Assign the lower and upper temperatures between which you wish to investigate
 4. Assign a list or range of water concentrations (in weight percent), you wish to investigate
