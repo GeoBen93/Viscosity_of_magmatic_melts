@@ -1,0 +1,7 @@
+name: magma
+dependencies:
+   - python
+   - numpy
+   - matplotlib
+   - jupyter
+   - pandas
